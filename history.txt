@@ -1,0 +1,26 @@
+Connection accepted localhost/127.0.0.1:1000
+
+
+12:28:32  Annonymus:
+ hej
+
+
+12:28:33  Annonymus:
+ co
+
+
+12:28:34  Annonymus:
+ to
+
+
+12:28:35  Annonymus:
+ tam
+
+Server has closed the connection.
+
+Connection accepted localhost/127.0.0.1:1000
+List of the users connected at 12:28:39
+1) Annonymus since Tue Jan 23 12:28:38 CET 2018
+
+Server has closed the connection.
+
